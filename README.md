@@ -9,7 +9,7 @@ The pc view:
 
 The mobile view:
 
-![PC View](project_images/mobile_view.png)
+![PC View](project_images/mobile_view.jpg)
 
 ## How to run the code
 1. Begin by cloning this repository.
