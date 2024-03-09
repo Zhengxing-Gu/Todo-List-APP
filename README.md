@@ -4,9 +4,11 @@ This app is built with Typescript, Tailwind, React and Firebase. Users can add a
 
 ## Screenshots
 The pc view:
+
 ![PC View](project_images/pc_view.png)
 
 The mobile view:
+
 ![PC View](project_images/mobile_view.png)
 
 ## How to run the code
